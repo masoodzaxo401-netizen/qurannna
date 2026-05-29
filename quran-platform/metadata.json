@@ -1,0 +1,6 @@
+{
+  "name": "Quran Platform",
+  "description": "An advanced, offline-first Quranic platform featuring multilingual translations, audio recitation synchronization, and memorization companion tools.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
